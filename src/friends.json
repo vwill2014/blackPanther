@@ -1,0 +1,97 @@
+[
+  {
+    "id": 0,
+  
+    "image": "http://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/article_width/public/2017/07/black-panther-comic-con-poster.jpg?itok=bcxwXsBX",
+      "value": true
+  },
+  {
+    "id": 1,
+    "name": "Spiderman (Miles Morales)",
+    "image": "http://cdn1-www.comingsoon.net/assets/uploads/gallery/black-panther/unnamed-file.jpg",
+    "location": "USA",
+    "value":true
+  },
+  {
+    "id": 2,
+    "name": "Ty",
+    "image": "http://bia2mag.com/wp-content/uploads/2017/10/Black-Panther-poster-1.jpg",
+    "occupation": "Kickboxer",
+    "location": "Jamaica",
+    "value":true
+  },
+  {
+    "id": 3,
+    "name": "Tag",
+    "image": "http://images6.fanpop.com/image/photos/40800000/-Black-Panther-Character-Poster-black-panther-40847170-823-1200.jpg",
+    "occupation": "Mutant",
+    "location": "Puerto Rico",
+    "value":true
+  },
+  {
+    "id": 4,
+    "name": "Nick Fury",
+    "image": "https://pbs.twimg.com/media/DONcq9GXcAUQm_V.jpg:large",
+    "occupation": "Director of S.H.I.E.L.D.",
+    "location": "USA",
+    "value":true
+  },
+  {
+    "id": 5,
+    "name": "Tiger Style",
+    "image": "https://hypebeast.imgix.net/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2017%2F11%2Fblack-panther-character-posters-8.jpg?auto=compress%2Cformat&fit=max&ixlib=php-1.1.0&q=90&w=800&s=621910a0f10886bf110cacde2fd4627c",
+    "occupation": "Leader of Dragon Clan",
+    "location": "Jamaica",
+    "value":true
+  },
+  {
+    "id": 6,
+    "name": "Bat Wing (Batman of Africa)",
+    "image": "https://i.redd.it/2ax2ur1w8g801.jpg",
+    "occupation": "Defender of Justice",
+    "location": "Africa",
+    "value":true
+  },
+  {
+    "id": 7,
+    "name": "Green Lantern",
+    "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BOGU3NTg4MDQtMGNhOC00YzBjLThmODQtZjdlYzM3MGE3ODI0XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_SY1000_CR0,0,685,1000_AL_.jpg",
+    "occupation": "Archietect",
+    "location": "USA",
+    "value":true
+
+  },
+  {
+    "id": 8,
+    "name": "Mecedes 'Misty' Knight",
+    "image": "https://pbs.twimg.com/media/DONyRGrUEAAQ5Nq.jpg:large",
+    "occupation": "Detective",
+    "location": "USA",
+    "value":true
+  },
+
+  {
+  "id": 9,
+    "name": "Mecedes 'Misty' Knight",
+    "image": "https://pbs.twimg.com/media/DONL3ECVQAE7C47.jpg:large",
+    "occupation": "Detective",
+    "location": "USA",
+    "value":true
+  },
+
+ {
+  "id": 10,
+    "name": "Mecedes 'Misty' Knight",
+    "image": "https://pbs.twimg.com/media/DONjoHhU8AEDUUL.jpg",
+    "location": "USA",
+    "value":true
+  },
+  {
+  "id": 11,
+    "name": "Mecedes 'Misty' Knight",
+    "image": "http://nerdist.com/wp-content/uploads/2017/11/Black-Panther-WKabi-poster.jpg",
+    "location": "USA",
+    "value":true
+  }
+  
+]
